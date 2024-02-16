@@ -1,7 +1,3 @@
-# Student Name: Lakshmi Brahmani Suravajjala
-# Student ID: 110377044
-# Submission Date: 12/16/2022
-
 # removing all the variable and cleaning the environment
 rm(list=ls())
 
